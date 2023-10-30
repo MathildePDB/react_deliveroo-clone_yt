@@ -1,0 +1,53 @@
+{
+  "name": "react_deliveroo-clone_yt",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-async-generator-functions": "^7.22.15",
+    "@babel/plugin-transform-class-properties": "^7.22.5",
+    "@babel/plugin-transform-export-namespace-from": "^7.22.11",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.22.11",
+    "@babel/plugin-transform-numeric-separator": "^7.22.11",
+    "@babel/plugin-transform-object-rest-spread": "^7.22.15",
+    "@babel/plugin-transform-optional-catch-binding": "^7.22.11",
+    "@babel/plugin-transform-optional-chaining": "^7.23.0",
+    "@formatjs/intl-numberformat": "^8.7.2",
+    "@npmcli/fs": "^3.1.0",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/native-stack": "^6.9.14",
+    "@react-navigation/stack": "^6.3.18",
+    "@reduxjs/toolkit": "^1.9.6",
+    "@sanity/client": "^6.4.12",
+    "@sanity/image-url": "^1.0.2",
+    "@types/react": "~18.2.14",
+    "expo": "^49.0.13",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-animatable": "^1.3.3",
+    "react-native-heroicons": "^3.2.0",
+    "react-native-progress": "^5.0.0",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-svg": "13.9.0",
+    "react-redux": "^8.1.3",
+    "twrnc": "^3.6.4",
+    "typescript": "^5.1.3",
+    "uglify-js": "^3.17.4",
+    "uuid": "^9.0.1",
+    "react-native-maps": "1.7.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "autoprefixer": "^10.4.16",
+    "postcss-import": "^15.1.0",
+    "tailwindcss": "^3.3.3"
+  },
+  "private": true
+}
